@@ -1,0 +1,9 @@
+{
+    "manifest_version" : 3,
+    "name" : "ChromePet",
+    "version" : "1.0",
+    "description" : "당신을 따라다니는 귀여운 펫",
+    "action": {
+    "default_popup": "popup.html"
+  }
+}
